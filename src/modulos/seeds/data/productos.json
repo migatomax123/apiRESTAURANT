@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Pizza Margherita222",
+    "description": "Delicious pizza with tomatoes, mozzarella cheese, and basil.",
+    "rating": 7,
+    "price": 5,
+    "color": "amarillo",
+    "tags": ["Italian", "Vegetarian"],
+    "categories": ["Main Course", "Pizza"]
+  },
+    {
+      "name": "Pizza Margherita22",
+      "description": "Deliciouspizzawith tomatoes, mozzarella cheese, and basil.",
+      "rating": 5,
+      "price": 20,
+      "color": "Red",
+      "tags": ["Italian", "Vegetarian"],
+      "categories": ["Main Course", "Pizza"]
+    }
+  ]
+  

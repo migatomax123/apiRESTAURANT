@@ -1,0 +1,28 @@
+[
+    {
+      "name": "Spicy",
+      "slug": "spicy",
+      "products": ["Product1", "Product2"]
+    },
+    {
+      "name": "picy",
+      "slug": "picy",
+      "products": ["Product7", "Product9"]
+    },
+    {
+      "name": "Spcy",
+      "slug": "spcy",
+      "products": ["Product8", "Product9"]
+    },
+    {
+      "name": "Spi",
+      "slug": "spi",
+      "products": ["Product4", "Product3"]
+    },
+    {
+      "name": "Spic",
+      "slug": "spic",
+      "products": ["Product5", "Product6"]
+    }
+  ]
+  

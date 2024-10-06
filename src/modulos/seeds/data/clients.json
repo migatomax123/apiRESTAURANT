@@ -1,0 +1,27 @@
+[
+    {
+      "name": "John Doe",
+      "age": 30,
+      "directions": "123 Main St, Anytown, USA",
+      "gender": "male",
+      "email": "john.doe@example.com",
+      "phone": 1234567890
+    },
+    {
+      "name": "Jane Smith",
+      "age": 25,
+      "directions": "456 Elm St, Othertown, USA",
+      "gender": "female",
+      "email": "jane.smith@example.com",
+      "phone": 2345678901
+    },
+    {
+      "name": "Sam Johnson",
+      "age": 35,
+      "directions": "789 Oak St, Anothertown, USA",
+      "gender": "male",
+      "email": "sam.johnson@example.com",
+      "phone": 3456789012
+    }
+  ]
+  

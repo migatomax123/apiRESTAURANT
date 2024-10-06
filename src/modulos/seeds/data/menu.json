@@ -1,0 +1,18 @@
+[
+    {
+      "name": "Pizza Margherita",
+      "price": 12,
+      "image": "https://example.com/images/pizza-margherita.jpg"
+    },
+    {
+      "name": "Cheeseburger",
+      "price": 10,
+      "image": "https://example.com/images/cheeseburger.jpg"
+    },
+    {
+      "name": "Caesar Salad",
+      "price": 8,
+      "image": "https://example.com/images/caesar-salad.jpg"
+    }
+  ]
+  
